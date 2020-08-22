@@ -26,11 +26,7 @@
     margin: 0 auto;
    
 }
-.right i{
-    color: var(--pure);
-    font-size: 2rem;
-    display:none;
-}
+
 .brand{
     margin-right: 2rem;
 }
@@ -362,6 +358,10 @@ about section start
     .nav-links{
         display: none;
 
+    }
+    .right i{
+        color: var(--pure);
+        font-size: 2rem;
     }
     .abour-wrapper{
         display: grid;
