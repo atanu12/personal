@@ -29,6 +29,7 @@
 .right i{
     color: var(--pure);
     font-size: 2rem;
+    diaplay:none;
 }
 .brand{
     margin-right: 2rem;
